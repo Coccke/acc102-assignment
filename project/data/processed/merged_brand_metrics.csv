@@ -1,0 +1,7 @@
+brand,total_words,sustainability_keyword_count,source_count,sustainability_score,controversy_news_count,first_year,last_year,period,parent_group,country,market_segment,normalized_sustainability_score,normalized_controversy_score,gap_score,interpretation_label
+Uniqlo,19,5,1,0.2631578947368421,5,2022,2025,2022-2025,Fast Retailing,Japan,Global casual apparel,1.0,0.0,1.0,High Messaging / Low Controversy
+H&M,21,5,1,0.23809523809523808,9,2022,2025,2022-2025,H&M Group,Sweden,Global fast fashion,0.8463901689708141,0.19047619047619047,0.6559139784946236,High Messaging / Low Controversy
+Zara,20,5,1,0.25,12,2022,2025,2022-2025,Inditex,Spain,Global fast fashion,0.9193548387096775,0.3333333333333333,0.5860215053763442,High Messaging / Low Controversy
+Primark,22,4,1,0.18181818181818182,8,2022,2025,2022-2025,Associated British Foods,United Kingdom,Value fast fashion retail,0.5014662756598242,0.14285714285714285,0.3586091328026813,High Messaging / Low Controversy
+Boohoo,19,3,1,0.15789473684210525,20,2022,2025,2022-2025,Boohoo Group,United Kingdom,Online fast fashion,0.3548387096774193,0.7142857142857143,-0.359447004608295,Low Messaging / High Controversy
+Shein,20,2,1,0.1,26,2022,2025,2022-2025,SHEIN,Singapore,Ultra-fast fashion e-commerce,0.0,1.0,-1.0,Low Messaging / High Controversy
